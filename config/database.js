@@ -6,4 +6,3 @@ const sequelize = new Sequelize('duantotnghiep', 'root', '', {
 });
 
 module.exports = sequelize;
-module.exports = sequelize;
